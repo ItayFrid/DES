@@ -1,5 +1,5 @@
 '''
-Itay Fridman - 305360653
+Itay Fridman
 '''
 import itertools
 import functools
